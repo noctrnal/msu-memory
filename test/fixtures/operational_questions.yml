@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  operational_survey: one
+  memory: 1
+  veracity: false
+  recall: 1
+  equation: one
+
+two:
+  operational_survey: two
+  memory: 1
+  veracity: false
+  recall: 1
+  equation: two
